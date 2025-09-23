@@ -1,4 +1,3 @@
-# Gruppeinnlevering-1-IS-118
  
 Group number and student names:  Group 15
      
