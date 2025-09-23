@@ -86,3 +86,4 @@ Oppstartsmøtene må også gi rom for den uformelle samtalen “småpraten” og
 Prosjektets rammer
 Samtidig er det viktig å være bevisst på at man i denne fasen først og fremst etablerer de formelle rammene for det som skal skje videre i prosjektet. "Samtidig må man være klar over at man i denne fasen i hovedsak legger de formelle rammene rundt det som senere skal finne sted. Å drøfte fremdrift, roller, ansvar og oppgaver betyr ikke nødvendigvis at alle oppfatter og fortolker dette likt". En felles forståelse, eller en felles prosjektkultur, er noe som utvikles over tid. "Gode rammer kan øke sannsynligheten for at man får en prosjektgruppe som utvikler seg til et godt team, men det vil aldri være noen garanti."
 Til slutt må det understrekes at "gode oppstartsmøter gir også rom for etablering av de første sosiale relasjonene, noe som kan lette utviklingen av et godt fungerende team i senere faser."
+
